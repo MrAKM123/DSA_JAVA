@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/MrAKM123/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/MrAKM123/DSA_JAVA/tree/master/0217-contains-duplicate) |
+| [0867-transpose-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MrAKM123/DSA_JAVA/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
