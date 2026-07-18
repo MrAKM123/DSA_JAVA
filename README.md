@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MrAKM123/DSA_JAVA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/MrAKM123/DSA_JAVA/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/MrAKM123/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
