@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/MrAKM123/DSA_JAVA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/MrAKM123/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -74,8 +75,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MrAKM123/DSA_JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MrAKM123/DSA_JAVA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MrAKM123/DSA_JAVA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
