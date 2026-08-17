@@ -89,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/MrAKM123/DSA_JAVA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0052-n-queens-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
