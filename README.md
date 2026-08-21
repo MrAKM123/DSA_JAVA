@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MrAKM123/DSA_JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/MrAKM123/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/MrAKM123/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
