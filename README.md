@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MrAKM123/DSA_JAVA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MrAKM123/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/MrAKM123/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MrAKM123/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/MrAKM123/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MrAKM123/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/MrAKM123/DSA_JAVA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0567-permutation-in-string) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MrAKM123/DSA_JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MrAKM123/DSA_JAVA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MrAKM123/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0328-odd-even-linked-list) |
