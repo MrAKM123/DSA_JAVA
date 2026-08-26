@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/MrAKM123/DSA_JAVA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/MrAKM123/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MrAKM123/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MrAKM123/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MrAKM123/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MrAKM123/DSA_JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
