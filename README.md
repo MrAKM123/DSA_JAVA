@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MrAKM123/DSA_JAVA/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/MrAKM123/DSA_JAVA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Greedy
 |  |
