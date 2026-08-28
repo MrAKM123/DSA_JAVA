@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/MrAKM123/DSA_JAVA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrAKM123/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MrAKM123/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/MrAKM123/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrAKM123/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MrAKM123/DSA_JAVA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MrAKM123/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrAKM123/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/MrAKM123/DSA_JAVA/tree/master/0443-string-compression) |
