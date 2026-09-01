@@ -105,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/MrAKM123/DSA_JAVA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MrAKM123/DSA_JAVA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MrAKM123/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/MrAKM123/DSA_JAVA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MrAKM123/DSA_JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/MrAKM123/DSA_JAVA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
