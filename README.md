@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MrAKM123/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MrAKM123/DSA_JAVA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0088-merge-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MrAKM123/DSA_JAVA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MrAKM123/DSA_JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
