@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MrAKM123/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MrAKM123/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MrAKM123/DSA_JAVA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Backtracking
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MrAKM123/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MrAKM123/DSA_JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Floyd's Cycle Finding Algorithm
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MrAKM123/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MrAKM123/DSA_JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/MrAKM123/DSA_JAVA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -206,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MrAKM123/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
