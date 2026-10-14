@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/MrAKM123/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MrAKM123/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/MrAKM123/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/MrAKM123/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0344-reverse-string) |
