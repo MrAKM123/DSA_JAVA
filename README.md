@@ -167,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/MrAKM123/DSA_JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/MrAKM123/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MrAKM123/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MrAKM123/DSA_JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MrAKM123/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/MrAKM123/DSA_JAVA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0567-permutation-in-string) |
