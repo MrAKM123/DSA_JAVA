@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MrAKM123/DSA_JAVA/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/MrAKM123/DSA_JAVA/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MrAKM123/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MrAKM123/DSA_JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/MrAKM123/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/MrAKM123/DSA_JAVA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/MrAKM123/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/MrAKM123/DSA_JAVA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MrAKM123/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/MrAKM123/DSA_JAVA/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/MrAKM123/DSA_JAVA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MrAKM123/DSA_JAVA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0567-permutation-in-string) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/MrAKM123/DSA_JAVA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/MrAKM123/DSA_JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/MrAKM123/DSA_JAVA/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
