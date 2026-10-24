@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/MrAKM123/DSA_JAVA/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrAKM123/DSA_JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/MrAKM123/DSA_JAVA/tree/master/1472-design-browser-history) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MrAKM123/DSA_JAVA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/MrAKM123/DSA_JAVA/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/MrAKM123/DSA_JAVA/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MrAKM123/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MrAKM123/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/MrAKM123/DSA_JAVA/tree/master/1472-design-browser-history) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MrAKM123/DSA_JAVA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MrAKM123/DSA_JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Floyd's Cycle Finding Algorithm
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/MrAKM123/DSA_JAVA/tree/master/1472-design-browser-history) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -240,8 +244,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/MrAKM123/DSA_JAVA/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/MrAKM123/DSA_JAVA/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/MrAKM123/DSA_JAVA/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/MrAKM123/DSA_JAVA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
