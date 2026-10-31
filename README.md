@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/MrAKM123/DSA_JAVA/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/MrAKM123/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/MrAKM123/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0394-decode-string) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/MrAKM123/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/MrAKM123/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MrAKM123/DSA_JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MrAKM123/DSA_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MrAKM123/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MrAKM123/DSA_JAVA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
